@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "banhang", "http://localhost:64387", "{406A3A29-050F-4BC8-9A13-5D9DF509E4B7}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_64387"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\Documents\My Web Sites\banhang\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64387\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_64387"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\Documents\My Web Sites\banhang\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64387\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\..\..\Documents\My Web Sites\banhang\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{406A3A29-050F-4BC8-9A13-5D9DF509E4B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{406A3A29-050F-4BC8-9A13-5D9DF509E4B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D7FC68A-F270-4E63-8639-90EB86F996B7}
+	EndGlobalSection
+EndGlobal
