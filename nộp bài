@@ -1,0 +1,83 @@
+!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <div>
+    <div style=" width: 25%; padding: 20px;text-align:center; float: left; box-sizing: border-box">
+        <img style="width:80%" src="https://cdn.chiaki.vn/unsafe/0x960/left/top/smart/filters:quality(75)/https://chiaki.vn/upload/product/2022/07/giay-the-thao-adidas-nmd-hu-pharrell-inspiration-pack-white-ee7583-62c6536c983a6-07072022103052.jpg" />
+        <br />
+        <a href="" class="product-name">Adidas Nmd Hu Pharrell</a>
+        <br />
+        <b style="color:red">giá:7.490.000 VND</b>
+        <p>Chọn size:</p>
+        <select name="menu" size="5">
+            <option>Size 36</option>
+            <option>Size 37</option>
+            <option>Size 38</option>
+            <option>Size 39</option>
+            <option>Size 40</option>
+            <option>Size 41</option>
+        </select>
+        <br />
+        <input type="submit" value="Mua ngay" />
+        </div>
+    <div style=" width: 25%; padding: 20px; text-align:center; float: left; box-sizing: border-box">
+        <img style="width:80%" src="https://cdn.chiaki.vn/unsafe/0x960/left/top/smart/filters:quality(75)/https://chiaki.vn/upload/product/2022/07/giay-the-thao-adidas-nmd-r1-glory-green-62cf74e96f85f-14072022084409.jpg" />
+        <br />
+        <a href="" class="product-name">Adidas NMD R1 Glory</a>
+        <br />
+        <b style="color:red">giá:2.245.000 VND</b>
+        <p> Chọn size:</p>
+        <select name="menu" size="5">
+            <option>Size 36</option>
+            <option>Size 37</option>
+            <option>Size 38</option>
+            <option>Size 39</option>
+            <option>Size 40</option>
+            <option>Size 41</option>
+        </select>
+        <br />
+        <input type="submit" value="Mua ngay" />
+    </div>
+    <div style="width:25%; padding: 20px;text-align:center;float:left;box-sizing:border-box">
+        <img style="width:80%" src="https://cdn.chiaki.vn/unsafe/0x960/left/top/smart/filters:quality(75)/https://chiaki.vn/upload/product/2022/07/gia-y-the-thao-adidas-ultraboost-21-core-black-cloud-white-pulse-aqua-62c6579c61d76-07072022104844.jpg" />
+        <br />
+        <a href="" class="product-name">Adidas Ultra Boost</a>
+        <br />
+        <b style="color:red">giá:2.000.000 VND</b>
+        <p> Chọn size:</p>
+        <select name="menu" size="5">
+            <option>Size 36</option>
+            <option>Size 37</option>
+            <option>Size 38</option>
+            <option>Size 39</option>
+            <option>Size 40</option>
+            <option>Size 41</option>
+        </select>
+        <br />
+        <input type="submit" value="Mua ngay" />
+    </div>
+    <div style=" width: 25%; padding: 20px; text-align:center; float: left; box-sizing: border-box">
+        <img style="width:80%" src="https://cdn.chiaki.vn/unsafe/0x960/left/top/smart/filters:quality(75)/https://chiaki.vn/upload/product/2022/07/giay-the-thao-adidas-stan-smith-trefoil-black-fw2443-62c6586a4275e-07072022105210.jpg" />
+        <br />
+        <a href="" class="product-name">Adidas Stan Smith Trefoil</a>
+        <br />
+        <b style="color:red">giá:1.295.000 VND</b>
+        <p> Chọn size:</p>
+        <select name="menu" size="5">
+            <option>Size 36</option>
+            <option>Size 37</option>
+            <option>Size 38</option>
+            <option>Size 39</option>
+            <option>Size 40</option>
+            <option>Size 41</option>
+        </select>
+        <br />
+        <input type="submit" value="Mua ngay" />
+        </div>
+        </div>
+</body>
+</html>
