@@ -1,0 +1,150 @@
+<html>
+
+<head>
+    <meta charset="UFT-8">
+    
+    <style>
+img {
+    border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    text-align: justify;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    background-image: url(https://www.ngoisaoso.vn/uploads/news/2015/03/19/Best-Website-Background-Images28.jpg);
+
+    background-repeat: no-repeat;
+    align-items: center;
+    overflow-y: hidden;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    
+
+}
+.top{
+    align-items: center;
+}
+.top h2{
+    outline: auto;
+    width: 90%;
+    height:50px;
+    align-items: center;
+    text-align: center;
+ padding-top: 20px;
+
+}
+
+
+input {
+    width: 100%;
+    padding: 12px ;
+    margin: 10px 5px;
+    border: none;
+    fill: none;
+    background-color:rgba(128, 128, 128, 0.358)
+    
+}
+.submit{
+    display: flex;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+    margin-bottom: 15px;
+}
+ .submit button {
+    display: inline;
+    width: 90%;
+    padding: 10px;
+    border: 10px;
+    border-radius: 20px;
+    background-color: #df3f57;
+    color: #ffffff;
+   
+
+}
+ .submit button:active{
+    background-color: #cc6d7c;
+}
+.name{
+    gap:0.5px;
+}
+.User{
+    margin-left: 2em;
+    margin-bottom: 2em;
+       
+}
+.left{
+    margin-left: 2em;
+    margin-bottom: 2em;
+    margin-right: 1em ;
+}
+
+.screen{
+    background-color:rgba(128, 128, 128, 0.358);
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+}
+.screen .top{
+    display: flex;
+    flex-direction: column;
+    margin-top: 1em;
+}
+.screen .infomation{
+    display: flex;
+
+}
+.top img{
+    max-width: 50px;
+    max-height: 50px;
+    border-radius: 50%;
+}
+
+    </style>
+</head>
+
+<body>
+
+    <div class="screen">
+        <div class="top">
+            <img src="https://ih1.redbubble.net/image.2414985743.4782/st,small,507x507-pad,600x600,f8f8f8.jpg">
+            <h2>THÔNG TIN KHÁCH HÀNG</h2>
+        </div>
+        <div class="infomation">
+            <div class="User">
+
+                <div class="name">
+                    <label for="name">tên người nhận</label>
+                    <input type="text" name="name" placeholder="NguyenvanA">
+                </div>
+                <div class="telephone">
+                    <!--cái email nó có ở trang đăng nhập rồi lên ở đây đặt vị trí sđt thì hợp lý hơn-->
+                    <label for="telephone">Số điện thoại</label>
+                    <input type="tel" name="telephone number" placeholder="XXXXXXXXX">
+                </div>
+              
+            </div>
+
+            <div class="left">
+                <div class="Address">
+                    <label for="Address">Address</label>
+                    <input type="text" name="address" placeholder="Tỉnh/huyện/xã">
+                </div>
+                <div class="Address">
+                    <label for="Address">Địa chỉ nhận hàng</label>
+                    <input type="text" name="address" placeholder="Tỉnh/huyện/xã">
+                </div>
+                
+                <!-- khách đặt hàng ko cần phải biết giới tính nên tôi cho nó bay màu luôn-->
+            
+            </div>
+        </div> 
+         <div class="submit"> <button type="submit">Gửi thông tin</button></div>
+    </div>
+</body>
+
+</html>
